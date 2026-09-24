@@ -1,5 +1,8 @@
 # NEXT-VERSION
 
+- Parse HTML tags split across Twig branches, dynamic attribute names, XML declarations, unquoted boolean attribute
+  values, and Shopware's `break` tag.
+
 # v0.10.0
 
 - [#179](https://github.com/MalteJanz/ludtwig/pull/179) Support parentheses-optional syntax for `same as` and
